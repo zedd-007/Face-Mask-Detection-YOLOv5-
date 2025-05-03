@@ -1,0 +1,5 @@
+train: "C:/Users/Zaid Chikte/Downloads/archive/images/train"
+val: "C:/Users/Zaid Chikte/Downloads/archive/images/val"
+
+nc: 3
+names: ['with_mask', 'without_mask', 'mask_weared_incorrect']
